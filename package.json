@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Bagaswidhi/6/issues"
   },
-  "homepage": "https://github.com/Bagaswidhi/6#readme"
+  "homepage": "https://github.com/Bagaswidhi/6#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
 }
